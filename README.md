@@ -14,7 +14,7 @@
 Flask based URL Shortener
 
 ## Screenshots
-<img src="https://github.com/ysehgal147/url-shortner/blob/main/Screenshot%202021-07-27%20at%2012.09.07%20AM.png?raw=true" width="500">
+<img src="https://github.com/ysehgal147/url-shortner/blob/main/Screenshot%202021-07-27%20at%2012.09.07%20AM.png?raw=true" width="800">
 
 ## Technology
 * Flask
